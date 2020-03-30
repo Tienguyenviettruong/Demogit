@@ -9,7 +9,7 @@ def menu():
     print("4: Hiển thị danh sách")
     print("5: Tìm kiếm")
     print("6: Hiển thị danh sách trường có tuổi lớn hơn n")
-    print("0: Out")
+    print("0: Thoát ra ngoài")
 Tentruong=''
 Tenviettat=''
 Namthanhlap=0
